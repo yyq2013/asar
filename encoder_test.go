@@ -1,4 +1,4 @@
-package asar // import "layeh.com/asar"
+package asar // import "github.com/yyq2013"
 
 import (
 	"io/ioutil"
