@@ -1,4 +1,4 @@
-package asar // import "github.com/yyq2013"
+package asar // import "github.com/yyq2013/asar"
 
 import (
 	"errors"
